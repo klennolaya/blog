@@ -50,10 +50,10 @@ body {
 
 			height: 300px;
 			width: 300px;
-			border-radius: 20%;
+			border-radius: 10%;
 			margin-left: 450px;
 			margin-top: 350px;
-			margin-bottom: 100px;
+			margin-bottom: 20px;
 
 
 
@@ -65,7 +65,7 @@ body {
 			top: 20px;
 			left: 10px;
 			width: 300px;	
-			padding: 10px;
+			padding: 0px;
 			
 		
 
