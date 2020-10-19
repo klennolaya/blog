@@ -71,7 +71,7 @@ body {
 
 		}
 
-		.infohead > p{
+		.infohead > h2{
 
 			
 			font-family: times new roman;
@@ -84,7 +84,7 @@ body {
 
 		}
 
-		.gmail p{
+		.gmail h2{
 			
 			font-size: 30px;
 			color: #000000;
@@ -97,7 +97,7 @@ body {
 
 		}
 
-		.about p{
+		.about h2{
 
 			font-size: 30px;
 			color:#000000;
@@ -107,6 +107,27 @@ body {
 		
 }
 		
+
+		.objective h2{
+
+			font-size: 20px;
+			color:#c3f6f7;
+			font-weight:bolder;
+			margin-top: 400px;
+			margin-left: 550px;
+					
+			
+		}
+
+		
+		.objective h3{
+
+			font-size: 20px;
+			color:#efaac4;
+			font-weight:bolder;
+			margin-top: 50px;
+			text-align: center;
+
 
 .hero {
 	position: absolute;
