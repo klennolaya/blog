@@ -46,6 +46,119 @@ body {
 	margin: auto;
 }
 
+		.photo img {
+
+			height: 300px;
+			width: 300px;
+			border-radius: 20%;
+			margin-left: 450px;
+			margin-top: 300px;
+			margin-bottom:  700px;
+
+
+		}
+
+
+		.objective h2{
+
+			font-size: 20px;
+			color:#c3f6f7;
+			font-weight:bolder;
+			margin-top: 400px;
+			margin-left: 550px;
+			
+
+
+
+			
+			
+		}
+
+		
+		.objective h3{
+
+			font-size: 20px;
+			color:#efaac4;
+			font-weight:bolder;
+			margin-top: 50px;
+			text-align: center;
+
+
+		}
+		
+		.photo{
+
+			position: absolute;
+			top: 30px;
+			left: 10px;
+			width: 400px;	
+			padding: 10px;
+
+			
+	
+
+			
+
+
+		}
+
+		.infohead > p{
+
+			
+			font-family: times new roman;
+			font-size: 50px;
+			color: #fcc880;
+			margin-top: 50px;
+			margin-left: 450px;
+			font-weight: bold;
+
+		}
+
+
+
+
+		.number p{
+			
+			font-size: 20px;
+			color:white;
+			font-weight:bolder;
+			margin-left: 500px;
+	
+	
+		}
+
+
+
+		.gmail p{
+			
+			font-size: 20px;
+			color:white;
+			font-weight:bolder;
+			margin-left: 460px;
+	
+
+
+
+		}
+
+		.about p{
+
+			font-size: 20px;
+			color:white;
+			font-weight:bolder;
+			margin-left: 430px;
+		
+
+
+		}
+
+
+
+
+
+
+		
+
 .hero {
 	position: absolute;
 	width: 1200px;
