@@ -76,7 +76,7 @@ body {
 			position: absolute;
 			font-family: times new roman;
 			font-size: 50px;
-			color: #fcc880;
+			color: #000000;
 			margin-top: 10px;
 			margin-left: 450px;
 			font-weight: bold;
@@ -112,7 +112,7 @@ body {
 		.objective h2{
                         position: absolute;
 			font-size: 20px;
-			color:#c3f6f7;
+			color:#000000;
 			font-weight:bolder;
 			margin-top: 400px;
 			margin-left: 550px;
@@ -124,10 +124,11 @@ body {
 		.objective h3{
                         position: absolute;
 			font-size: 20px;
-			color:#efaac4;
+			color:#000000;
 			font-weight:bolder;
 			margin-top: 50px;
 			text-align: center;
+}
 
 
 .hero {
