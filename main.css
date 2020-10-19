@@ -64,7 +64,7 @@ body {
 			position: absolute;
 			top: 20px;
 			left: 10px;
-			width: 400px;	
+			width: 100px;	
 			padding: 10px;
 			rotation: 90°, right;
 		
@@ -116,6 +116,6 @@ h1 {
 	color: black;
 	font-size: 60px;
 	text-align: top;
-	margin-top: 0px;
+	margin-top: 100px;
 	font-family: "Arial Black", Gadget, sans-serif;
 }
