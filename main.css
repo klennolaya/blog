@@ -3,7 +3,12 @@
 	margin: 0;
     padding: 0;
 }
-
+header {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+	height: 10vh;
+	background-size: cover;
+	background-position: center;
+}
 
 
 .main-nav {
@@ -72,7 +77,7 @@ body {
 			font-family: times new roman;
 			font-size: 50px;
 			color: #000000;
-			margin-top: 10px;
+			margin-top: 100px;
 			margin-left: 450px;
 			font-weight: bold;
 			text-align: center;
