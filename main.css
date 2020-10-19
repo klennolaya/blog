@@ -78,7 +78,7 @@ body {
 			font-family: times new roman;
 			font-size: 50px;
 			color: #fcc880;
-			margin-top: 20px;
+			margin-top: 300px;
 			margin-left: 450px;
 			font-weight: bold;
 
@@ -89,6 +89,7 @@ body {
 			font-size: 20px;
 			color: #000000;
 			font-weight:bolder;
+			margin-top: 300px;
 			margin-left: 460px;
 	
 
@@ -101,6 +102,7 @@ body {
 			font-size: 20px;
 			color:#000000;
 			font-weight:bolder;
+			margin-top: 300px;
 			margin-left: 430px;
 		
 }
