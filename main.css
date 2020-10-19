@@ -78,7 +78,7 @@ body {
 			font-family: times new roman;
 			font-size: 50px;
 			color: #fcc880;
-			margin-top: 300px;
+			margin-top: 10px;
 			margin-left: 450px;
 			font-weight: bold;
 
@@ -86,10 +86,9 @@ body {
 
 		.gmail p{
 			
-			font-size: 20px;
+			font-size: 30px;
 			color: #000000;
 			font-weight:bolder;
-			margin-top: 300px;
 			margin-left: 460px;
 	
 
@@ -99,10 +98,9 @@ body {
 
 		.about p{
 
-			font-size: 20px;
+			font-size: 30px;
 			color:#000000;
 			font-weight:bolder;
-			margin-top: 300px;
 			margin-left: 430px;
 		
 }
@@ -110,7 +108,7 @@ body {
 
 .hero {
 	position: absolute;
-	width: 500px;
+	width: 1000px;
 	margin-left: 0px
 	margin-top: 0px;
 }
